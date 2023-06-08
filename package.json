@@ -27,7 +27,8 @@
     "@actions/github": "^4.0.0",
     "@vercel/ncc": "^0.27.0",
     "gunzip-file": "^0.1.1",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "dotenv": "^10.0.0"
   },
   "devDependencies": {
     "eslint": "^7.18.0",
